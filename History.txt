@@ -1,0 +1,7 @@
+
+Fixed Deposit
+Principal Amount=100000
+Interest Rate=5
+Number of Months=24
+Future Value=110494.1
+------------------------------
